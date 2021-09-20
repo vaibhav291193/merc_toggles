@@ -13,18 +13,56 @@ body{
   padding: 10px;
   width: 90%;
 }
-h1 {
+.styleOne {
   font-family: Roboto;
-  font-size: 32px;
+  font-size: 24px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 32px;
+  letter-spacing: 0.2px;
+  color: #111111;
+  text-align: left;
+
+  outline: none;
+
+  padding: 0;
+  margin: 0;
+  margin-right: 24px;
 }
 h2 {
   font-family: Roboto;
-  font-size: 28px;
+  font-size: 24px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 32px;
+  letter-spacing: 0.2px;
+  color: #111111;
+  text-align: left;
+
+  outline: none;
+
+  padding: 0;
+  margin: 0;
+  margin-right: 24px;
 }
 
 h3 {
   font-family: Roboto;
   font-size: 24px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 32px;
+  letter-spacing: 0.2px;
+  color: #111111;
+  text-align: left;
+
+  outline: none;
+
+  padding: 0;
+  margin: 0;
+  margin-right: 24px;
 }
 /* Button Class */
 *,
