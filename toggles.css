@@ -15,7 +15,7 @@ body{
 }
 .styleOne {
   font-family: Roboto;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
@@ -32,7 +32,7 @@ body{
 }
 h2 {
   font-family: Roboto;
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
@@ -50,7 +50,7 @@ h2 {
 
 h3 {
   font-family: Roboto;
-  font-size: 24px;
+  	font-size: 20px;
   font-stretch: normal;
   font-style: normal;
   line-height: 32px;
